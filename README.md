@@ -8,9 +8,9 @@ Project Contents:
 * Introduction
 * Posing Questions
 * Data Collection and Wrangling
-*+ Condensing the Trip Data
+--+ Condensing the Trip Data
 * Exploratory Data Analysis
-+ Statistics
-+ Visualizations
+--+ Statistics
+--+ Visualizations
 * Performing Your Own Analysis
 * Conclusions
